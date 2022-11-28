@@ -2,7 +2,7 @@
 
 This is a great movie card with awesome CSS effects.
 
-I practiced here basic translations, gradients, filter blur, CDN icons and a nice design composition.
+I practiced here basic translations, gradients, background-blend-mode, filter blur, CDN icons and a nice design composition.
 
 Cool HTML and CSS only code.
 
